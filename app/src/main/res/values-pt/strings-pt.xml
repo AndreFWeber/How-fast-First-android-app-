@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quão rápido?</string>
+    <string name="action_settings">configurações</string>
+    <string name="time">Tempo</string>
+    <string name="stop_button">Pare</string>
+</resources>
